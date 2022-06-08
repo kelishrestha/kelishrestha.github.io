@@ -4,5 +4,5 @@ Portfolio with Jekyll (Forty - Jekyll Theme)
 ### How to run server?
 
 ```
-jekyll serve
+env LANG="en_US.UTF-8" bundle exec jekyll serve
 ```

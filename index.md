@@ -8,4 +8,4 @@ author: Kelina Shrestha
 show_tile: false
 ---
 
-Senior Software Engineer with a demonstrated history of working in the information technology and services industry with both remote and on-site experience. Skilled in Ruby on Rails, Javascript, Agile Methodologies, RSpec, and Application Programming Interfaces, both front-end and back-end. Strong engineering professional with a Bachelor's Degree focused in Computer Engineering from Khwopa Engineering College.
+I’m a technology and nature lover and I like to explore new tech products and also create one! I’m a quick learner and loves to create products to bridge the gap between technology and people.
