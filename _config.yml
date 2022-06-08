@@ -2,8 +2,8 @@
 site-title: Kelina Shrestha
 title: Kelina
 subtitle: Shrestha
-email: kelishrestha97@gmail.com
-description: "Self-motivated, dedicated and organized software engineer<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
+email: kelinashrestha97@gmail.com
+description: "Self-motivated, dedicated and organized project manager/software engineer<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Kelina Shrestha
@@ -13,8 +13,8 @@ state: Bagmati
 zip_code: 44600
 country: Nepal
 meta-url: https://kelishrestha.github.io/portfolio/
-meta-description: '#RED Ruby on Rails Engineer'
-
+meta-description: "#RED Technical Project Manager & Ruby on Rails Engineer"
+encoding: utf-8
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 30
@@ -33,77 +33,127 @@ twitter_url: https://twitter.com/kelishrestha
 
 # experience list
 experiences:
+  - title: Technical Project Manager
+    company: KUDO Inc.
+    duration: Apr 2021 - Present
+    works:
+      - "Manage projects' timelines, milestones, budgeting estimates, and status reports"
+      - "Tracking projects and providing regular reports on project status to the project team and key stakeholders"
+      - "Coordinate with project team members for projects releases and deliverables"
+      - "Standardize processes and ﬂows in a structured and feasible way to address the challenges of project team members"
+      - "Using project management tools to track project performance"
+      - "Conducting risk assessments for projects"
+      - "Manage project delivery for core applications along with dependent applications"
+      - "Handle communication throughout multiple tech departments and timezones in a centralized documented fashion"
+      - "Manage and coordinate with project managers for communication, coordination, and support"
+      - "Support engineering team with tech knowledge."
+      - "Built and utilized reporting systems to keep customers and management in the loop with the latest information."
+      - "Managed a minimum of 3 projects each year while maintaining adherence to budget, schedule, and scope requirements."
+      - "Investigated and corrected or escalated project problems."
+      - "Involved in security audit with the auditors for certified secured applications."
+  - title: Senior Software Engineer
+    company: KUDO Inc.
+    duration: June 2019 - Mar 2021
+    works:
+      - "Developed application features, stabilize and manage application codes."
+      - "Stabilized API with multiple dependent application requests and responses."
+      - "Collaborated remotely with team members across the US, EU, China, Canada, India to deliver application features."
+      - "Handled releases for the core application along with other dependent applications for all environments."
+      - "Rebuilt and re-branded application with custom UI based on Bootstrap and Grid CSS from scratch."
+      - "Led teams as Scrum Master and Tech lead."
+      - "Collaborated with multiple teams for the dependencies and fixes."
+      - "Implemented Scrum Processes within the team."
+      - "Managed the development flow with product releases."
+      - "Involved in creating product releases and contributed as release manager."
+      - "Worked closely with multiple tech departments for communication and collaboration."
+      - "Led development of internal microservice with the contractors."
+      - "Led development of core management team along with other team members."
+      - "Worked with teams in creating technical documentation for the products."
+      - "Involved in creating API documentation for the product integrations."
+      - "Managed sprint workflows within cross-functional teams."
+      - "Supported engineering team with tech knowledge and status."
+      - "Formulated and initiated departmental processes for better visibility and communication."
   - title: Freelance Remote Software Engineer
     company: KUDO Inc.
-    duration: July 2018 - Present
+    duration: July 2018 - May 2019
     works:
-      - 'Develop rapid application features, stabilize and manage application codes independently.'
-      - 'Manage, develop and document API driven applications to provide better flexibility and visibility to team.'
-      - 'Manage deployments of the applications in staging environment.'
-      - 'Collaborate remotely with team members across US, Canada and India to efficiently deliver Kanban-sprint hybrid style product life cycle development features.'
-      - 'Integrating third party services into platform for better functionality and reporting.'
-      - 'Creating microservices in the platform to expand and segregate features with alignment to business values.'
-      - 'Design, develop new features in API and web application to be integrated according to business needs.'
-      - 'Stabilize API with multiple dependent application requests and responses.'
-      - 'Handle releases documentation from the development side.'
+      - "Develop rapid application features, stabilize and manage application codes independently."
+      - "Manage, develop and document API driven applications to provide better flexibility and visibility to team."
+      - "Manage deployments of the applications in staging environment."
+      - "Collaborate remotely with team members across US, Canada and India to efficiently deliver Kanban-sprint hybrid style product life cycle development features."
+      - "Integrating third party services into platform for better functionality and reporting."
+      - "Creating microservices in the platform to expand and segregate features with alignment to business values."
+      - "Design, develop new features in API and web application to be integrated according to business needs."
+      - "Stabilize API with multiple dependent application requests and responses."
+      - "Handle releases documentation from the development side."
   - title: Product Manager
     company: BazaarFactory
     duration: July 2017 - Present
     works:
-      - 'Create and implement effective solutions to e-commerce platforms’ pain-points.'
-      - 'Developed features in early stage of application development.'
-      - 'Plan and execute client prioritized features with a vision to support client-first strategy.'
-      - 'Lead, coordinate and manage an engineering team for releasing application features and bugs to deliver stable versions of applications.'
-      - 'Manage API driven and microservice structured applications with engineering team.'
-      - 'Train new engineering team on Rails, GIT, Ruby, Product Development Life Cycle and management facilities.'
-      - 'Supervise and manage team from both product and development perspective.'
+      - "Create and implement effective solutions to e-commerce platforms' pain-points."
+      - "Plan and execute client prioritized features with a vision to support client-first strategy."
+      - "Lead, coordinate and manage an engineering team for releasing application features and bugs to deliver stable versions of applications."
+      - "Manage API driven and microservice structured applications with engineering team."
+      - "Train new engineering team on Rails, GIT, Ruby, Product Development Life Cycle and management facilities."
+      - "Supervise and manage team from both product and development perspective."
+      - "Developed features in early stage of application development."
   - title: Software Engineer
     company: Codessy Web Nepal
     duration: July 2017 - Oct 2017
     works:
-      - 'Maintain complete product flow in React based web application.'
-      - 'Developed Kanban based product features.'
-      - 'Developed email extraction application using GoLang.'
+      - "Maintain complete product flow in React based web application."
+      - "Developed Kanban based product features."
+      - "Developed email extraction application using GoLang."
   - title: Associate Software Engineer
     company: CloudFactory (Sprout Technologies)
     duration: July 2016 - July 2017
     works:
-      - 'Developed agile microservices and designed multiple APIs with test-driven approach. '
-      - 'Managed engineering delivery team with supervision. '
-      - 'Integrated tests using testing framework Mocha into the application to test workflow results.'
-      - 'Research and prototype building on Central Authentication System (CAS).'
-      - 'Developed custom platform service related ruby gems.'
-      - 'Contributed in fixing bugs in platform based ruby gem.'
-      - 'Remodelled API calls with activemodel concept with multiple microservices.'
-      - 'Developed data retention policy in web based applications.'
-      - 'Rapid prototyped a short URL API application from discussion to deployment.'
-      - 'Support and monitor workflows in platform to address bugs and errors.'
+      - "Developed agile microservices and designed multiple APIs with test-driven approach. "
+      - "Managed engineering delivery team with supervision. "
+      - "Integrated tests using testing framework Mocha into the application to test workflow results."
+      - "Research and prototype building on Central Authentication System (CAS)."
+      - "Developed custom platform service related ruby gems."
+      - "Contributed in fixing bugs in platform based ruby gem."
+      - "Remodelled API calls with activemodel concept with multiple microservices."
+      - "Developed data retention policy in web based applications."
+      - "Rapid prototyped a short URL API application from discussion to deployment."
+      - "Support and monitor workflows in platform to address bugs and errors."
   - title: Junior Software Engineer
     company: CloudFactory (Sprout Technologies)
     duration: June 2015 - July 2016
     works:
-      - 'Developed and deliver sprint stories both with peers and independently.'
-      - 'Maintain reporting and validation data actively.'
-      - 'Fixing and developing platform related bugs and features according to client’s needs.'
-      - 'Built custom workflows depending upon requirement of clients.'
-      - 'Support and monitor workflows in platform to address bugs and errors at the time of occurence. '
-      - 'Worked as a Team Lead of Engineering team collaborating with interdepartmental teams.'
-      - 'Managed team and delivered project specific developments cooperating with different innovated teams for fast and quality delivery.'
-      - 'Trained subordinates on Rails, GIT and platform overviews.'
-      - 'Supervised subordinates on workstreams’ versions to provide several visual and technical benefits to end users.'
-      - 'Standardize workflows of available custom workflows by collaborating with workflow development team.'
-      - 'Documented complete workflow overview of workflows.'
-      - 'Support client’s technical requirements and engaged in client’s  custom workflow technical discussion with both client and interdepartmental teams.'
+      - "Developed and deliver sprint stories both with peers and independently."
+      - "Maintain reporting and validation data actively."
+      - "Fixing and developing platform related bugs and features according to client's needs."
+      - "Built custom workflows depending upon requirement of clients."
+      - "Support and monitor workflows in platform to address bugs and errors at the time of occurence. "
+      - "Worked as a Team Lead of Engineering team collaborating with interdepartmental teams."
+      - "Managed team and delivered project specific developments cooperating with different innovated teams for fast and quality delivery."
+      - "Trained subordinates on Rails, GIT and platform overviews."
+      - "Supervised subordinates on workstreams' versions to provide several visual and technical benefits to end users."
+      - "Standardize workflows of available custom workflows by collaborating with workflow development team."
+      - "Documented complete workflow overview of workflows."
+      - "Support client's technical requirements and engaged in client's  custom workflow technical discussion with both client and interdepartmental teams."
   - title: Software Engineer Trainee
     company: CloudFactory (Sprout Technologies)
     duration: Jan 2015 - June 2016
     works:
-      - 'Actively contributed in development of visualization of reporting features and maintained reporting data in a separate service.'
-      - 'Sprint Features development and fixing bugs in platform.'
-      - 'Developed new workflow according to client’s requirements.'
+      - "Actively contributed in development of visualization of reporting features and maintained reporting data in a separate service."
+      - "Sprint Features development and fixing bugs in platform."
+      - "Developed new workflow according to client's requirements."
 
 # skill lists
 skills:
+  - category: Project Management Tools
+    names:
+      - Jira
+      - Trello
+      - ClickUp
+      - Aha
+      - Monday.com
+      - Confluence
+      - Microsoft Office
+      - Google Applications
   - category: Programming Languages
     names:
       - Ruby
@@ -134,12 +184,10 @@ skills:
       - Redux
       - Amazon S3
       - Google Firebase
-  - category: Project Management Tools
+  - category: Application Management Tools
     names:
       - HoneyBadger
       - LogEntries
-      - Jira
-      - Trello
   - category: Software Development Methodology
     names:
       - Agile Methodology with Scrum Process
@@ -163,10 +211,10 @@ skills:
       - Adaptability.
 
 trainings:
-  - title: Certified Scrum Master
-    featured_date: 5 April 2020 - 5 April 2021
-    image: assets/images/LSMBadge1572028308039.png
-    description: Licensed Scrum Master
+  - title: Registered Scrum Master
+    featured_date: 5 April 2020 - 5 April 2023
+    image: assets/images/BadgeRSM1633360962364.png
+    description: Licensed Scrum Master since 2020
   - title: StartUp Weekend Women
     featured_date: 16 February 2018 - 18 February 2018
     image: assets/images/Startup-Glocal-Khabar.jpg
@@ -178,30 +226,30 @@ trainings:
 
 # education list
 education:
-  - title: "Bachelor’s in Computer Engineering"
+  - title: "Bachelor's in Computer Engineering"
     institution: Khwopa Engineering College
     start_date: 2009
     completion_date: 2015
-    major: 'Computer Engineering'
+    major: "Computer Engineering"
   - title: Intermediate Degree
     institution: Brookfield International College
     start_date: 2007
     completion_date: 2009
-    major: 'Science (Biology & Maths)'
+    major: "Science (Biology & Maths)"
   - title: School Leaving Certificate
     institution: BhanuBhakta Higher Secondary School
     start_date: 1999
     completion_date: 2007
-    major: 'Computer Science & Maths'
+    major: "Computer Science & Maths"
 
 # Languages list
 languages:
   - name: Nepali (Native)
-    link: 'https://en.wikipedia.org/wiki/Nepali_language'
+    link: "https://en.wikipedia.org/wiki/Nepali_language"
   - name: English
-    link: ''
+    link: ""
   - name: Newari (Mother Tongue)
-    link: 'https://en.wikipedia.org/wiki/Newar_language'
+    link: "https://en.wikipedia.org/wiki/Newar_language"
 
 # build settings
 markdown: kramdown

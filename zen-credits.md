@@ -112,7 +112,7 @@ show_tile: false
               <div class="4u">
                 <span class="image fit">
                   <img src="assets/images/feature-management-part-i.jpg" alt="" />
-                  <span>Photo by <a href="https://unsplash.com/@kamilles?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kamil Leś</a> on <a href="https://unsplash.com/s/photos/road-sign?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+                  <span>Photo by <a href="https://unsplash.com/@kamilles?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kamil Les</a> on <a href="https://unsplash.com/s/photos/road-sign?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
                 </span>
               </div>
               <div class="4u$">
