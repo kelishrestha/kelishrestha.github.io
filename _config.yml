@@ -21,15 +21,15 @@ tiles-count: 30
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/keli.shrestha
+# facebook_url: https://www.facebook.com/keli.shrestha
 github_url: https://github.com/kelishrestha
 gitlab_url: https://gitlab.com/kelishrestha
 googleplus_url:
-instagram_url: https://www.instagram.com/kelishrestha/
+# instagram_url: https://www.instagram.com/kelishrestha/
 linkedin_url: https://www.linkedin.com/in/kelishrestha/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/kelishrestha
+# twitter_url: https://twitter.com/kelishrestha
 
 # experience list
 experiences:
@@ -211,6 +211,10 @@ skills:
       - Adaptability.
 
 trainings:
+  - title: Management 3.0 Foundation Workshop
+    featured_date: 11 June 2022 - 12 June 2022
+    image: assets/images/management-3.0-workshop.jpeg
+    description: Management 3.0 Foundation 2 day Workshop
   - title: Registered Scrum Master
     featured_date: 5 April 2020 - 5 April 2023
     image: assets/images/BadgeRSM1633360962364.png
@@ -250,6 +254,13 @@ languages:
     link: ""
   - name: Newari (Mother Tongue)
     link: "https://en.wikipedia.org/wiki/Newar_language"
+
+# awards list
+awards:
+  - title: Barrier Breaker Award
+    featured_date: Q2 2022
+    image: assets/images/KUDO-Barrier-Breaker-Award-Certificate.jpeg
+    description: Barrier Breaker Award for Q2 2022 - KUDO
 
 # build settings
 markdown: kramdown

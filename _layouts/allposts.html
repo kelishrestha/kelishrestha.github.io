@@ -26,6 +26,23 @@
     <!-- One -->
     <section id="one">
       <div class="inner">
+        {% for award in site.awards %}
+        {% if award.title != 404 %}
+          <br>
+          <header class="major">
+            <h3>{{ award.title }}</h3>
+          </header>
+          {% if award.image %}
+            <span class="image left"><img src="{{ site.baseurl }}/{{ award.image }}" alt="" /></span>
+          {% endif %}
+          {% if award.description %}
+            <p>{{ award.description }}</p>
+          {% endif %}
+          {% if award.featured_date %}
+            <p><i>Awarded on: {{ award.featured_date }}</i></p>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
         {% for post in site.posts %}
           {% if post.title != 404 %}
             <br>
@@ -45,12 +62,12 @@
             <!-- {% if post.date %}<p>{{ post.date }}</p>{% endif %} -->
           {% endif %}
         {% endfor %}
-        </div>
-      </section>
+      </div>
+    </section>
 
-    </div>
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
   </body>
 
