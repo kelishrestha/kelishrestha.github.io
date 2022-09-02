@@ -1,0 +1,25 @@
+<!-- Main -->
+<div id="main" class="alt">
+  <!-- One -->
+  <section id="one">
+    <div class="inner">
+      <!-- Content -->
+      {% for award in site.awards limit:site.awards-count %}
+        <div class="row">
+          <div class="12u$ 12u$(small)">
+              <h3>{{ award.title }}</h3>
+              <p>
+                <span class="image left"><img src="{{ award.image }}" alt="{{ award.title }}" /></span>
+                <h4>{{ award.featured_date }}</h4>
+                {{ award.description }}
+                <br>
+              </p>
+          </div>
+        </div>
+        {% if site.awards.size != forloop.index  %}
+          <hr class="major" />
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+</div>
