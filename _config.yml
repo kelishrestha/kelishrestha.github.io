@@ -264,6 +264,45 @@ awards:
     image: assets/images/KUDO-Barrier-Breaker-Award-Certificate.jpeg
     description: Barrier Breaker Award for Q2 2022 - KUDO
 
+# work list
+works:
+  - title: POEditor Application
+    image: assets/images/poeditor_app.png
+    created_from: April 2022
+    description: View, list, download, edit and add translation files and words in POEditor web application.
+    languages:
+      - Ruby
+    frameworks:
+      - Sinatra
+    links:
+      source_code: https://github.com/kelishrestha/poeditor_app
+      demo:
+
+  - title: Broadcast widget
+    image: assets/images/works.jpg
+    created_from: August 2020
+    description: View broadcast with generated URL
+    languages:
+      - Ruby
+      - ERB/HTML
+    frameworks:
+      - Sinatra
+    links:
+      source_code: https://github.com/kelishrestha/broadcast_widget
+      demo:
+
+  - title: Tokbox Insights
+    image: assets/images/tokbox_insights.png
+    created_from: Dec 2019
+    description: Visualizes advance insights reports of tokbox sessions in project and session level. Advance insight reports are only available to enterprise level customers.
+    languages:
+      - ReactJS
+    frameworks:
+      - React
+    links:
+      source_code: https://github.com/kelishrestha/ot_insights_api_react
+      demo: https://kelishrestha.github.io/ot_insights_api_react/
+
 # build settings
 markdown: kramdown
 

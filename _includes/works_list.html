@@ -1,0 +1,31 @@
+<!-- Main -->
+<div id="main" class="alt">
+  <!-- One -->
+  <section id="one">
+    <div class="inner">
+      <!-- Content -->
+      {% for work in site.works limit:site.works-count %}
+        <div class="row">
+          <div class="12u$ 12u$(small)">
+            <h3>{{ work.title }}</h3>
+            <p>
+              <span class="image left"><img src="{{ work.image }}" alt="{{ work.title }}" /></span>
+              <span>{{ work.description }}</span>
+              <h4>Languages: {{ work.languages | join: ', ' }}</h4>
+              <h4>Frameworks: {{ work.frameworks | join: ', ' }}</h4>
+              <ul class="actions small">
+                <li><a href="{{ work.links.source_code }}" class="button special small">See Source Code</a></li>
+                {% if work.links.demo %}
+                <li><a href="{{ work.links.demo }}" class="button special small">See Demo</a></li>
+                {% endif %}
+              </ul>
+            </p>
+          </div>
+        </div>
+        {% if site.works.size != forloop.index  %}
+          <hr class="major" />
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

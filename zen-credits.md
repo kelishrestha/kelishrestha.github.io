@@ -111,14 +111,29 @@ show_tile: false
               </div>
               <div class="4u">
                 <span class="image fit">
-                  <img src="assets/images/feature-management-part-i.jpg" alt="" />
-                  <span>Photo by <a href="https://unsplash.com/@kamilles?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kamil Les</a> on <a href="https://unsplash.com/s/photos/road-sign?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+                  <a href="https://unsplash.com/@kamilles?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Kamil Les">
+                    <img src="assets/images/feature-management-part-i.jpg" />
+                  </a>
                 </span>
               </div>
               <div class="4u$">
                 <span class="image fit">
-                  <img src="assets/images/feature-management-part-ii.jpg" alt="" />
-                  <span>Photo by <a href="https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jukan Tateisi</a> on <a href="https://unsplash.com/s/photos/stairs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+                  <a href="https://unsplash.com/@tateisimikito?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Jukan Tateisi">
+                    <img src="assets/images/feature-management-part-ii.jpg" />
+                  </a>
+                </span>
+              </div>
+              <div class="4u$">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Kelly Sikkema">
+                    <img src="assets/images/works.jpg" />
+                  </a>
                 </span>
               </div>
             </div>
