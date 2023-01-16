@@ -4,8 +4,8 @@ title: Kelina
 subtitle: Shrestha
 email: kelinashrestha97@gmail.com
 description: "Self-motivated, dedicated and organized software engineer and technical project manager<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kelinashrestha.com.np/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://kelishrestha.github.io" # the base hostname & protocol for your site
 author: Kelina Shrestha
 street_address: Gatthaghar
 city: Bhaktapur
