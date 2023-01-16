@@ -1,5 +1,12 @@
-# ks-portfolio
-Portfolio with Jekyll (Forty - Jekyll Theme)
+# Description
+
+Profile made with Jekyll theme named Forty.
+
+### Install all dependencies
+
+```
+bundle install
+```
 
 ### How to run server?
 
