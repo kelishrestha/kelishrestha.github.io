@@ -3,17 +3,17 @@ site-title: Kelina Shrestha
 title: Kelina
 subtitle: Shrestha
 email: kelinashrestha97@gmail.com
-description: "Self-motivated, dedicated and organized project manager/software engineer<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+description: "Self-motivated, dedicated and organized software engineer and technical project manager<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kelinashrestha.com.np/" # the base hostname & protocol for your site
 author: Kelina Shrestha
 street_address: Gatthaghar
 city: Bhaktapur
 state: Bagmati
 zip_code: 44600
 country: Nepal
-meta-url: https://kelishrestha.github.io/portfolio/
-meta-description: "#RED Technical Project Manager & Ruby on Rails Engineer"
+meta-url: https://kelishrestha.github.io
+meta-description: "#RED Ruby on Rails Engineer"
 encoding: utf-8
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -51,6 +51,7 @@ experiences:
       - "Managed a minimum of 3 projects each year while maintaining adherence to budget, schedule, and scope requirements."
       - "Investigated and corrected or escalated project problems."
       - "Involved in security audit with the auditors for certified secured applications."
+      - "Report success metrics of multiple projects including major risks."
   - title: Senior Software Engineer
     company: KUDO Inc.
     duration: June 2019 - Mar 2021
@@ -86,9 +87,9 @@ experiences:
       - "Design, develop new features in API and web application to be integrated according to business needs."
       - "Stabilize API with multiple dependent application requests and responses."
       - "Handle releases documentation from the development side."
-  - title: Product Manager
+  - title: Lead Software Engineer
     company: BazaarFactory
-    duration: July 2017 - Present
+    duration: July 2017 - Dec 2021
     works:
       - "Create and implement effective solutions to e-commerce platforms' pain-points."
       - "Plan and execute client prioritized features with a vision to support client-first strategy."
@@ -193,6 +194,7 @@ skills:
       - Agile Methodology with Scrum Process
       - KanBan
       - Rapid Development
+      - ScrumBan
   - category: Version Control Tools
     names:
       - Github
