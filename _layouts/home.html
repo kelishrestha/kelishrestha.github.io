@@ -10,15 +10,20 @@
 
   <!-- Banner -->
   <section id="banner" class="major">
-    <div class="inner">
-      <header class="major">
-        <h1>{{ page.landing-title }}</h1>
-      </header>
-      <div class="content">
-        <p style="text-transform: uppercase;">{{ site.description }}</p>
+    <div class="inner row">
+      <div class="8u 12u$(small)">
+        <header class="major">
+          <h1>{{ page.landing-title }}</h1>
+        </header>
+        <div class="content">
+          <p style="text-transform: uppercase;">{{ site.description }}</p>
+        </div>
         <ul class="actions">
           <li><a href="#one" class="button next scrolly">Get Started</a></li>
         </ul>
+      </div>
+      <div class="4u 12u$(small)">
+        <img src="{{ site.profile_image }}" alt="Profile image" width="500" />
       </div>
     </div>
   </section>
