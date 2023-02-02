@@ -3,8 +3,8 @@ site-title: Kelina Shrestha
 title: Kelina
 subtitle: Shrestha
 email: kelinashrestha97@gmail.com
-description: "Self-motivated, dedicated and organized software engineer and technical project manager<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: "Self-motivated, dedicated and organized software engineer <br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kelishrestha.github.io" # the base hostname & protocol for your site
 author: Kelina Shrestha
 street_address: Gatthaghar
@@ -18,6 +18,7 @@ encoding: utf-8
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 30
+profile_image: assets/images/kelina.jpg
 
 # social settings
 500px_url:
@@ -33,46 +34,25 @@ slack_url:
 
 # experience list
 experiences:
-  - title: Technical Project Manager
-    company: KUDO Inc.
-    duration: Apr 2021 - Present
-    works:
-      - "Manage projects' timelines, milestones, budgeting estimates, and status reports"
-      - "Tracking projects and providing regular reports on project status to the project team and key stakeholders"
-      - "Coordinate with project team members for projects releases and deliverables"
-      - "Standardize processes and ﬂows in a structured and feasible way to address the challenges of project team members"
-      - "Using project management tools to track project performance"
-      - "Conducting risk assessments for projects"
-      - "Manage project delivery for core applications along with dependent applications"
-      - "Handle communication throughout multiple tech departments and timezones in a centralized documented fashion"
-      - "Manage and coordinate with project managers for communication, coordination, and support"
-      - "Support engineering team with tech knowledge."
-      - "Built and utilized reporting systems to keep customers and management in the loop with the latest information."
-      - "Managed a minimum of 3 projects each year while maintaining adherence to budget, schedule, and scope requirements."
-      - "Investigated and corrected or escalated project problems."
-      - "Involved in security audit with the auditors for certified secured applications."
-      - "Report success metrics of multiple projects including major risks."
   - title: Senior Software Engineer
     company: KUDO Inc.
-    duration: June 2019 - Mar 2021
+    duration: June 2019 - Present
     works:
       - "Developed application features, stabilize and manage application codes."
       - "Stabilized API with multiple dependent application requests and responses."
-      - "Collaborated remotely with team members across the US, EU, China, Canada, India to deliver application features."
+      - "Managed projects' timelines, milestones, budgeting estimates, and status reports"
+      - "Managed and coordinate with project managers, directors and auditors for communication, coordination, and support"
+      - "Built and utilized reporting systems to keep customers and management in the loop with the latest information."
+      - "Managed a minimum of 3 projects each year while maintaining adherence to budget, schedule, and scope requirements."
+      - "Involved in security audit with the auditors for certified secured applications."
       - "Handled releases for the core application along with other dependent applications for all environments."
       - "Rebuilt and re-branded application with custom UI based on Bootstrap and Grid CSS from scratch."
       - "Led teams as Scrum Master and Tech lead."
       - "Collaborated with multiple teams for the dependencies and fixes."
       - "Implemented Scrum Processes within the team."
-      - "Managed the development flow with product releases."
-      - "Involved in creating product releases and contributed as release manager."
-      - "Worked closely with multiple tech departments for communication and collaboration."
-      - "Led development of internal microservice with the contractors."
-      - "Led development of core management team along with other team members."
-      - "Worked with teams in creating technical documentation for the products."
-      - "Involved in creating API documentation for the product integrations."
+      - "Led development of internal microservices with the contractors."
+      - "Initiated documentation of API and processes to support product integrations and management."
       - "Managed sprint workflows within cross-functional teams."
-      - "Supported engineering team with tech knowledge and status."
       - "Formulated and initiated departmental processes for better visibility and communication."
   - title: Freelance Remote Software Engineer
     company: KUDO Inc.
@@ -145,7 +125,7 @@ experiences:
 
 # skill lists
 skills:
-  - category: Project Management Tools
+  - category: Management Tools
     names:
       - Jira
       - Trello
@@ -162,18 +142,18 @@ skills:
       - JQuery
       - HTML
       - CSS
+      - ReactJS
       - Golang(Basic)
       - AJAX
       - VueJS(Basic)
-      - ReactJS(Basic)
   - category: Frameworks
     names:
       - Ruby on Rails
       - Sinatra
       - Grape
       - Node
-      - ReactJS
-      - VueJS
+      - React
+      - Vue
       - Bootstrap
       - Material UI Toolkit
   - category: Database & Web Services
